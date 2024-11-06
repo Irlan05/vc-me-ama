@@ -1,6 +1,4 @@
-
 var moveButton = document.querySelector("button:nth-child(2)");
-
 var correctlyButton = document.querySelector("button:first-child");
 
 moveButton.addEventListener("click", function () {
