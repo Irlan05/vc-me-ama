@@ -10,5 +10,5 @@ moveButton.addEventListener("click", function () {
 });
 
 correctlyButton.addEventListener("click", function () {
-  alert("Obrigado! eu tambem me amo!");
+  alert("Obrigado! vamo comer pastel com caldo de cana na feira!");
 });
